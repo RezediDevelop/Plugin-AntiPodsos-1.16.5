@@ -1,0 +1,6 @@
+name: AntiPodSos
+version: 1.0.0
+main: Al3x.antiPodSoss.AntiPodSos
+api-version: 1.16
+authors: [Al3x]
+description: Защита лута после PvP от подсоса
